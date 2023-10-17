@@ -1,5 +1,5 @@
-<div align="center"><img src="https://media.istockphoto.com/id/1457353108/photo/computer-hacker.webp?b=1&s=612x612&w=0&k=20&c=3OeTv60rftpUBFOXcY3QEf_pIE245Aipp7WPg_-I9A8="></div>
 <h1 align="center">Hi 👋, I'm Sarvesh Yogi</h1>
+<div align="center"><img src="https://template.canva.com/EAEeOQwo3jY/1/0/1600w-1NYTq34QR6I.jpg"></div>
 
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
