@@ -1,4 +1,4 @@
-<div><img align="right" alt="Coding" height="600" src="https://github.com/SARVESHYOGI/SARVESHYOGI/blob/main/Purple%20Gradient%20Modern%20Gaming%20Channel%20Youtube%20Banner.gif"></div>
+<div><img align="right" alt="Coding" height="600" src="https://github.com/SARVESHYOGI/SARVESHYOGI/blob/main/banner.gif"></div>
 
 
 
