@@ -1,7 +1,6 @@
-![logo]( https://github.com/SARVESHYOGI/SARVESHYOGI/blob/main/Black%20Simple%20Geometric%20Discord%20Profile%20Banner.png)
-<img align="right" alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<h1 align="center">Hi 👋, I'm Sarvesh Yogi</h1>
-<div align="center"><img src="https://template.canva.com/EAEeOQwo3jY/1/0/1600w-1NYTq34QR6I.jpg"></div>
+<div><img align="right" alt="Coding" height="600" src="https://github.com/SARVESHYOGI/SARVESHYOGI/blob/main/Purple%20Gradient%20Modern%20Gaming%20Channel%20Youtube%20Banner.gif"></div>
+
+
 
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
