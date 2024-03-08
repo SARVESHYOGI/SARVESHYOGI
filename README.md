@@ -1,5 +1,5 @@
 
-  <div><img align="right" alt="Coding" height="600" src="https://github.com/SARVESHYOGI/SARVESHYOGI/blob/main/banner.gif"></div>
+  <div><img align="right" alt="Coding" height="400" width="1800" src="https://github.com/SARVESHYOGI/SARVESHYOGI/blob/main/banner.gif"></div>
 
 
 
