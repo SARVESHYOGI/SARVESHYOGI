@@ -9,6 +9,9 @@
 
 
 <h3 align="center">A passionate Software developer from India</h3>
+<div align="center" style="display: block;">
+    <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
+</div>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on **Full Stack / MERNStack Web Development.**
 
