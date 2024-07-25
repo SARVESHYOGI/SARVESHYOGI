@@ -27,11 +27,11 @@
 
 - 📫 How to reach me **sarveshyogi2005@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U_qqLGco89A8cID1-W79PJWCUHppzvJr/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x3JkFuvW_BFj0dryXcp2dq3EmfrYI4ec/view?usp=sharing]
 - ⚡ Fun fact **I think I am funny**
 
 <hr>
-  <h3 align="left">My Resume : <a href="https://drive.google.com/file/d/1aZqTj-y7qz70lO5CxXPud7atRLyq7ZRZ/view?usp=sharing" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3>
+  <h3 align="left">My Resume : <a href="https://drive.google.com/file/d/1x3JkFuvW_BFj0dryXcp2dq3EmfrYI4ec/view?usp=sharing" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3>
 
 
 <h3 align="left">Connect with me:</h3>
